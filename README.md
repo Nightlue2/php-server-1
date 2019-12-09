@@ -1,0 +1,2 @@
+# 关于后端软件phpstudy
+如果想在本机上访问interface.php页面，可以安装phpstudy软件，将所有的页面移至phpstudy路径下WWW文件夹，访问localhost/interface.php即可。
